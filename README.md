@@ -15,14 +15,14 @@
 - 🎓 Técnico em Tecnologia da Informação com foco em desenvolvimento de aplicações e suporte técnico.  
 - 💻 Experiência com desenvolvimento backend usando Java.  
 - 🚀 Atualmente estudando Spring Boot, APIs RESTful e Docker.  
-- 🎯 Buscando oportunidades como desenvolvedor backend júnior ou estágio.  
+- 🎯 Buscando oportunidades como desenvolvedor backend júnior.  
 
 ---
 
 - 🎓 Technical degree in Information Technology focused on application development and computer support.  
 - 💻 Experience with backend development using Java.  
 - 🚀 Currently learning Spring Boot, RESTful APIs, and Docker.  
-- 🎯 Looking for junior or internship backend opportunities.  
+- 🎯 Looking for junior backend opportunities.  
 
 ---
 
